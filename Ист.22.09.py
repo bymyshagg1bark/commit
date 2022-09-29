@@ -13,6 +13,8 @@ for i in range(len(text)):
     inda = inda + abcm[ind]
     
 print(inda)
+print()
+
     
     
 
